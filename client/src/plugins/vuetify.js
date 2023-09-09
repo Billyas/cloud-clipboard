@@ -22,6 +22,7 @@ Vue.use(VuetifyToast, {
     color: '',
     closeText: '关闭',
     closeColor: 'accent',
+    timeout: 350,
 });
 
 export default vuetify;
